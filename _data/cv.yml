@@ -90,19 +90,9 @@
   contents:
     - year:  Reviewer
       items: 
-        - Ad Hoc Networks
-        - Flexible and Printed Electronics
-        - Machine Learning Science and Technology
-        - Biomedical Signal Processing and Control
-        - The Learner Journal Collection
-        - Transactions on Neural Networks and Learning Systems (TNNLS)
-        - Transactions on Intelligent Vehicles (TIV)
-        - American Control Conference (ACC)
-        - Association for the Advancement of Artificial Intelligence (AAAI)
-        - International Conference on Robotics and Automation (ICRA)
-        - Conference on Neural Information Processing Systems (NeurIPS)
-        - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-        - International Conference on Artificial Intelligence and Statistics (AISTATS)
+        - IEEE International Conference on Bioinformatics and Biomedicine
+        - Frontiers Oncology
+        - Bioinformatics
 
 # - title: Academic Interests
 #   type: nested_list

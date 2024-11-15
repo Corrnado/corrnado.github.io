@@ -1,5 +1,6 @@
-github_users:
-  - corrnado
+# github_users:
+#   - corrnado
 
-github_repos:
-  - NabaviLab/GCN-on-Molecular-Subtype
+# github_repos:
+#   - NabaviLab/GCN-on-Molecular-Subtype
+#   - NabaviLab/stMMC

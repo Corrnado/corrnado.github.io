@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: University of Connecticut
-      year: 2024 (expected)
+      year: 2025 (expected)
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -34,6 +34,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist Internship
+      institution: Boehringer Ingelheim
+      year: 2023 Fall
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Research Assistant
       institution: University of Connecticut
       year: 2020 - Present
@@ -62,10 +72,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Predoctoral Fellowship
+    - year: 2023
+      items: 
+        - Predoctoral Fellowship
     - year: 2022
       items: 
         - Predoctoral Fellowship
         - Doctoral Student Travel Fellowship
+    - year: 2021
+      items: 
+        - Cigna Graduate Scholarship
     - year: 2020
       items: 
         - Cigna Graduate Scholarship
@@ -74,13 +93,17 @@
 - title: Technical Talks
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Poster Presentation at the ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2023)
+        - Oral Presentation at the IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)
     - year: 2022
       items: 
         - Oral Presentation at the ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2022)
     - year: 2021
       items: 
         - Invited Presentation at the 4th Workshop on Computational Advances for Single-Cell Omics Data Analysis (CASCODA)
-        - Oral Presentation at the IEEE International Conference on Bioinformatics and Biomedicine
+        - Oral Presentation at the IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2021)
     - year: 2021
       items: 
         - Oral Presentation at the ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2021)
@@ -88,8 +111,17 @@
 - title: Services
   type: time_table
   contents:
+    - year: Program Chair
+      items:
+      - ICLR Tiny Paper
+      - IEEE International Conference on Bioinformatics and Biomedicine
     - year:  Reviewer
       items: 
+        - AISTATS
+        - ICLR Tiny Paper
+        - ICML AdvML
+        - EAIKDD
+        - NeurIPS
         - IEEE International Conference on Bioinformatics and Biomedicine
         - Frontiers Oncology
         - Bioinformatics

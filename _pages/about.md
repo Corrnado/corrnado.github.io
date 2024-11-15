@@ -18,14 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-:point_right: **I'm currently looking for 2023 summer internship! Please contact me if you think I could be a good candidate. Thank you!** :point_left:
+:point_right: **I'm currently looking for full-time positions in 2025! Please contact me if you think I am a good candidate. Thank you!** :point_left:
 
-Hi! My name is Bingjun Li. I am a third-year Ph.D. student at the [Department of Computer Science and Engineering](https://www.cse.uconn.edu) at the University of Connecticut under the supervision of [Dr. Sheida Nabavi](https://sheida-nabavi.uconn.edu). I obtained my master’s in Statistics from [the George Washington University](https://www.gwu.edu) in 2017 and my bachelor in Mathematics from [Boston University](https://www.bu.edu) in 2014.
+Hi! My name is Bingjun Li. I am a fifth-year Ph.D. student in Computer Science at the [School of Computing](https://computing.engineering.uconn.edu) at the University of Connecticut under the supervision of [Dr. Sheida Nabavi](https://sheida-nabavi.uconn.edu). I obtained my master’s in Statistics from [the George Washington University](https://www.gwu.edu) in 2017 and my bachelor in Mathematics from [Boston University](https://www.bu.edu) in 2014.
 
-My research interest is primaryly in integrative analysis in multimodal biomedical data. The works I do can be divided into three categories.
+My research interests are **AI in Biomedical Science**, **multimodal analysis**, and **graph neural network**. The work I do focuses on this three questions.
 
-1. I develope graph-based deep learning models for tasks on multi-omics genome data.
-2. I work on intelligent health with electronic health records and medical images.
-3. I develop tools about single-cell sequencing data for biologiests.
+1. How to let the model learn the complex structure of biological process?
+2. How to better fuse the multimodal data?
+3. What can we do to make the model scale up to the future discovery and advancement in biology technology?
 
-The key words in my work: **Multimodal Data**, **Genome Data**, and **Graph Neural Network**.
+And here is the diagram of how all my publications fall into this three categories.
+
+<div style="text-align: center;">
+  <img src="assets/img/works.png" alt="diagram_of_work" width="400">
+</div>
